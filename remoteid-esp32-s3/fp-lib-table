@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "/Users/abhishek/Desktop/remoteid-esp32-s3/kicad-libraries/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "Autrik")(type "KiCad")(uri "/Users/abhishek/Desktop/remoteid-esp32-s3/ESP32-S2-Breakout.pretty")(options "")(descr ""))
+)

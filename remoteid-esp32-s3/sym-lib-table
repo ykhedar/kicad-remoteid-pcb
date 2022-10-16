@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "esp32")(type "KiCad")(uri "/Users/abhishek/Desktop/remoteid-esp32-s3/kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+)
