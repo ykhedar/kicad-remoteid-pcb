@@ -2783,7 +2783,7 @@
     (property "Value" "CAN" (id 1) (at 372.11 126.9999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (id 2) (at 370.84 124.46 0)
+    (property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal" (id 2) (at 370.84 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 370.84 124.46 0)
@@ -3270,7 +3270,7 @@
     (property "Value" "UART" (id 1) (at 373.38 97.7899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" (id 2) (at 372.11 95.25 0)
+    (property "Footprint" "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal" (id 2) (at 372.11 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 372.11 95.25 0)
@@ -3524,10 +3524,10 @@
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G")
     )
     (path "/b5c93212-d51a-4e09-888e-c06703f74140"
-      (reference "J2") (unit 1) (value "CAN") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "CAN") (footprint "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal")
     )
     (path "/f4ea0a4d-4f31-4d0b-b8e1-eff7ab74755d"
-      (reference "J3") (unit 1) (value "UART") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "UART") (footprint "Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal")
     )
     (path "/51e51ca2-a6d6-4d67-b20d-8a733565053b"
       (reference "R1") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0603_1608Metric")
